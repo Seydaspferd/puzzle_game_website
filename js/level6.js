@@ -1,5 +1,5 @@
 var input = document.getElementById('inputid');
-var password = 'claustrophobia';
+var password = 'scrollbar';
 var levelbutton = document.getElementById('levelbtn');
 
 document.getElementById('answerbtn').addEventListener('click', solveFunction);
